@@ -1,0 +1,25 @@
+body {
+    background: #454440;
+    margin: auto;
+}
+
+h1 {
+    font-family: Montserrat, sans-serif;
+    color: white;
+    font-size: 5rem;
+    font-weight: 200;
+    margin: 1em;
+}
+
+.lead {
+    color: white;
+    font-family: Montserrat;
+}
+
+h2 {
+    color: white;
+}
+
+a {
+    font-family: Montserrat, sans-serif;
+}
